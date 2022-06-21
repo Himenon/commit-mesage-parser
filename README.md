@@ -1,5 +1,7 @@
 # @himenon/commit-message-parser
 
+commit message parser
+
 ## Usage
 
 **Install**
