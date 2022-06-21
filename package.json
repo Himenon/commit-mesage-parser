@@ -1,6 +1,6 @@
 {
   "name": "@himenon/commit-message-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "commit message parser",
   "keywords": [
     "commit message",
